@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /markdown/
 title: "Contact"
 excerpt: "Contact me"
 author_profile: true

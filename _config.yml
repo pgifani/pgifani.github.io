@@ -85,7 +85,7 @@ author:
   bio              : "Medical Image analyst"
   location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SUjovFoAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Parisa-Gifani"

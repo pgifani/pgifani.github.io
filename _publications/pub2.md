@@ -1,15 +1,13 @@
 ---
-title: "Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans"
+title: "EEG analysis based on wavelet-spectral entropy for epileptic seizures detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'COVID-19 has infected millions of people worldwide. One of the most important hurdles in controlling the spread of this disease is the inefficiency and lack of medical tests. Computed tomography (CT) scans are promising in providing accurate and fast detection of COVID-19. However, determining COVID-19 requires highly trained radiologists and suffers from inter-observer variability. To remedy these limitations, this paper introduces an automatic methodology based on an ensemble of deep transfer learning for the detection of COVID-19.'
-date: 2021-1-01
-venue: 'International journal of computer assisted radiology and surgery'
+permalink: /publication/pub2
+excerpt: 'The electroencephalogram (EEG) is the brain signal containing valuable information about the normal or epileptic state of the brain. In this paper a discrete wavelet-spectral entropy (SEN) method is presented for epileptic seizures detection through the analysis of EEGs and EEG sub-bands. The EEG signal is decomposed by discrete wavelet transform into its sub-bands and is characterized by spectral entropy approach. This method is applied to three different groups of EEG signals: 1) healthy states, 2) epileptic states during a seizure-free interval (interictal EEG), 3) epileptic states during a seizure (ictal EEG). Spectral entropy differentiates between these three states and their sub-bands. At the end, t-student statistical distribution is applied to determine the measure of distinguishing between different subjects. This method can discriminate between ictal and healthy subject of alpha sub-band (8-15 Hz) with 98.5% p-value.'
+date: 2010-10-16
+venue: '2010 3rd International Conference on Biomedical Engineering and Informatics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Parisa Gifani, et all (2021). &quot;Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans.&quot; <i>International journal of computer assisted radiology and surgery</i>. 16(1).'
+citation: 'Parisa Gifani, et all (2010). &quot;EEG analysis based on wavelet-spectral entropy for epileptic seizures detection; <i>2010 3rd International Conference on Biomedical Engineering and Informatics</i>. 3(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: YParisa Gifani, et all (2021). "Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans." <i>International journal of computer assisted radiology and surgery</i>. 16(1).

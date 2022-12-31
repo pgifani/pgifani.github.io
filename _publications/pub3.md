@@ -1,12 +1,15 @@
 ---
-title: "EEG analysis based on wavelet-spectral entropy for epileptic seizures detection"
+title: "Paper Title Number 5"
 collection: publications
-permalink: /publication/pub2
-excerpt: 'The automatic detection of end-diastole and end-systole frames of echocardiography images is the first step for calculation of the ejection fraction, stroke volume and some other features related to heart motion abnormalities. In this paper, the manifold learning algorithm is applied on 2D echocardiography images to find out the relationship between the frames of one cycle of heart motion. By this approach the nonlinear embedded information in sequential images is represented in a two-dimensional manifold by the LLE algorithm and each image is depicted by a point on reconstructed manifold. There are three dense regions on the manifold which correspond to the three phases of cardiac cycle ('isovolumetric contraction', 'isovolumetric relaxation', 'reduced filling'), wherein there is no prominent change in ventricular volume. By the fact that the end-systolic and end-diastolic frames are in isovolumic phases of the cardiac cycle, the dense regions can be used to find these frames. By calculating the distance between consecutive points in the manifold, the isovolumic frames are mapped on the three minimums of the distance diagrams which were used to select the corresponding images. The minimum correlation between these images leads to detection of end-systole and end-diastole frames. The results on six healthy volunteers have been validated by an experienced echo cardiologist and depict the usefulness of the presented method.'
-date: 2010-7-23
-venue: 'Physiological measurement'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Parisa Gifani, et all (2010). &quot;EEG analysis based on wavelet-spectral entropy for epileptic seizures detection; <i>2010 3rd International Conference on Biomedical Engineering and Informatics</i>. 3(1).'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Medical image analysis and processing"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
+date: 2016-2022
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Medical image analysis and processing has great significance in the field of medicine, especially in non-invasive treatment and clinical study.
+
+There is a clear need for the accurate interpretation and analysis of medical images, which often involves the need of a computer aided system to understand the image, the image structure and to know what it means.
 
 Heading 1
 ======

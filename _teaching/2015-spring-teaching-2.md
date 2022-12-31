@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "CCTP-505: Introduction to Communication, Culture, and Technology (Fall 2008)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+teaching_type: "Graduate course"
+permalink: /teaching/fall08-505/ 
+institution: "Georgetown University, CCT program"
+date: 2008-09-01
+excerpt: "<i>Graduate course, Teaching assistant</i><br/>
+CCTP-505 is an introduction to the Communication, Culture, and Technology M.A. program at Georgetown, which all incoming CCT students must take their first semester."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
+CCTP-505 is an introduction to the Communication, Culture, and Technology M.A. program at Georgetown, which all incoming CCT students must take their first semester. The course covers a range of topics in media and communication studies, science &amp; technology studies, cultural studies, critical theory, and media studies. My duties included: Holding weekly discussion sessions with an eleven student group to discuss course material and assignments, holding regular office hours, and providing technical support to professors during lectures.

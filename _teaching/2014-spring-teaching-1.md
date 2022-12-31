@@ -12,7 +12,8 @@ Medical image analysis and processing has great significance in the field of med
 
 There is a clear need for the accurate interpretation and analysis of medical images, which often involves the need of a computer aided system to understand the image, the image structure and to know what it means.
 
-Learning outcomes
+Learning outcomes:
+---
 1- Demonstrate subject specific knowledge and understanding in theoretical and practical aspects of Medical Image Analysis and Processing.
 2- Develop specialised skills and critical understanding of advanced image analysis and processing principles using the Python platform.
 3- Gain critical insight into challenges underpinning image analysis, including image enhancement and compensating for artefacts.

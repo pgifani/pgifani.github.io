@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 10"
+title: "Echocardiography noise reduction using sparse representation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/pub10
+excerpt: 'The clarity and accuracy of echocardiography images are greatly reduced by speckle noise. Noise suppression, however, is difficult to achieve without also obscuring both rapidly moving structures and object edges. This research seeks to address these challenges by introducing a novel filtering framework based on temporal information and sparse representation. The proposed method involves smoothing intensity variation time curves (IVTCs) assessed in each pixel. Using an over-complete dictionary that contains prototype signal-atoms, IVTCs can be reconstructed as linear combinations of a few of these atoms. After a comprehensive comparison of sparse recovery algorithms, three were selected for our method: Bayesian Compressive Sensing (BCS), the Bregman iterative algorithm, and Orthogonal Matching Pursuit (OMP). The performance of the proposed method was then evaluated and compared with other speckle reduction filters. The experimental results demonstrate that the proposed algorithm can be used to achieve better-preserved edges and reduce blurring.'
+date: 2016-01-07
+venue: 'Computers & Electrical Engineering'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Parisa Gifani, et all. (2016). &quot;Echocardiography noise reduction using sparse representation.&quot; <i>Computers & Electrical Engineering</i>. 53.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Parisa Gifani, et all. (2016). "Echocardiography noise reduction using sparse representation." <i>Computers & Electrical Engineering</i>. 53.

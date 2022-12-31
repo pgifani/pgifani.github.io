@@ -10,6 +10,6 @@ citation: 'Parisa Gifani, et all (2021). &quot;Automated detection of COVID-19 u
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pgifani.github.io/files/paper1.pdf)
 
 Recommended citation: Parisa Gifani, et all (2021). "Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans." <i>International journal of computer assisted radiology and surgery</i>. 16(1).

@@ -6,9 +6,9 @@ excerpt: 'In order to identify regional wall motion abnormality in clinical prac
 date: 2019-04-30
 venue: '2019 27th Iranian Conference on Electrical Engineering (ICEE)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Parisa Gifani, et all. (2019). &quot;A Color-Encoded Map to Facilitate the Identification of Abnormal Segments of the Left Ventricle by Novice Examiners.&quot; <i>2019 27th Iranian Conference on Electrical Engineering (ICEE)</i>. '
+citation: 'Parisa Gifani, et all. (2019). &quot;A Color-Encoded Map to Facilitate the Identification of Abnormal Segments of the Left Ventricle by Novice Examiners.&quot; <i>2019 27th Iranian Conference on Electrical Engineering (ICEE)</i>. 12(1)'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Parisa Gifani, et all. (2019). "A Color-Encoded Map to Facilitate the Identification of Abnormal Segments of the Left Ventricle by Novice Examiners." <i>2019 27th Iranian Conference on Electrical Engineering (ICEE)</i>. 
+Recommended citation: Parisa Gifani, et all. (2019). "A Color-Encoded Map to Facilitate the Identification of Abnormal Segments of the Left Ventricle by Novice Examiners." <i>2019 27th Iranian Conference on Electrical Engineering (ICEE)</i>.  12(1)

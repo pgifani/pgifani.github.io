@@ -1,12 +1,22 @@
 ---
-title: "CCTP-505: Introduction to Communication, Culture, and Technology (Fall 2008)"
+title: "Medical Image Analysis and Processing"
 collection: teaching
-teaching_type: "Graduate course"
-permalink: /teaching/fall08-505/ 
-institution: "Georgetown University, CCT program"
-date: 2008-09-01
-excerpt: "<i>Graduate course, Teaching assistant</i><br/>
-CCTP-505 is an introduction to the Communication, Culture, and Technology M.A. program at Georgetown, which all incoming CCT students must take their first semester."
+type: "Graduate Course"
+permalink: /teaching/spring-teaching-1
+venue: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
+date: 2016-2022
+location: "Tehran, Iran"
 ---
 
-CCTP-505 is an introduction to the Communication, Culture, and Technology M.A. program at Georgetown, which all incoming CCT students must take their first semester. The course covers a range of topics in media and communication studies, science &amp; technology studies, cultural studies, critical theory, and media studies. My duties included: Holding weekly discussion sessions with an eleven student group to discuss course material and assignments, holding regular office hours, and providing technical support to professors during lectures.
+Medical image analysis and processing has great significance in the field of medicine, especially in non-invasive treatment and clinical study.
+
+There is a clear need for the accurate interpretation and analysis of medical images, which often involves the need of a computer aided system to understand the image, the image structure and to know what it means.
+
+Learning outcomes:
+---
+1- Demonstrate subject specific knowledge and understanding in theoretical and practical aspects of Medical Image Analysis and Processing.
+2- Develop specialised skills and critical understanding of advanced image analysis and processing principles using the Python platform.
+3- Gain critical insight into challenges underpinning image analysis, including image enhancement and compensating for artefacts.
+4- Apply specialised skills in image analysis and processing through independent and autonomous activity and communicate outcomes to a range of audiences.
+5- Critically appraise various deep learning architectures and algorithms used in image segmentation, object detection and classification.
+

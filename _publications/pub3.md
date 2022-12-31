@@ -6,7 +6,7 @@ excerpt: 'The automatic detection of end-diastole and end-systole frames of echo
 date: 2010-7-23
 venue: 'Physiological measurement'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Gifani, Parisa, et al. "Automatic detection of end-diastole and end-systole from echocardiography images using manifold learning.; <i>Physiological measurement</i>. 31.9.'
+citation: 'Parisa Gifani, et all (2010). &quot;EEG analysis based on wavelet-spectral entropy for epileptic seizures detection; <i>2010 3rd International Conference on Biomedical Engineering and Informatics</i>. 3(1).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)

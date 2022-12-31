@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Noise reduction of echocardiographic images based on temporal information"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/pub4
+excerpt: 'Noise suppression of echocardiography images is a challenging issue for accurate and effective human interpretation and computer-assisted analysis. In spite of comprehensive speckle reduction methods, until now there have been few studies of denoising echocardiography sequences based on temporal information. In this article, a fast and accurate filter based on temporal information has been proposed that enables the reduction of noise in echocardiography images. The proposed method consists of smoothing intensity variation time curves (IVTC) assessed in each pixel. By filtering high-frequency components of each temporal signal and then replacing the smooth signals in their positions, all pixels of all frames can be reconstructed in a parallel manner. The performance of the proposed method is evaluated and compared with seven other speckle-reduction filters. Comparison of the filters is based on a series of computer-simulated and real clinical images, and also on visual assessment by experts. The experimental results show that the proposed algorithm is fast, less computationally demanding than other filters, and accurate, in addition to preserving the edges of the images.'
+date: 2014-01-04
+venue: ' IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Parisa Gifani, et all (2014). &quot;Noise reduction of echocardiographic images based on temporal information.&quot; <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. 61(4).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Parisa Gifani, et all (2021). "Noise reduction of echocardiographic images based on temporal information." <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. 61(4).

@@ -6,7 +6,7 @@ excerpt: 'The automatic detection of end-diastole and end-systole frames of echo
 date: 2010-07-23
 venue: 'Physiological Measurement'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Parisa Gifani. (2010). &quot;Automatic detection of end-diastole and end-systole from echocardiography images using manifold learning .&quot; <i>Physiological Measurement</i>. 31(9).'
+citation: 'Parisa Gifani, et all (2021). &quot;Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans.&quot; <i>International journal of computer assisted radiology and surgery</i>. 16(1).'
 ---
 
 

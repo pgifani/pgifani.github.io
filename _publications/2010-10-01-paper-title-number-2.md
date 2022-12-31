@@ -1,7 +1,7 @@
 ---
-title: "Automated detection of COVID-19 using ensemble of transfer learning with deep convolutional neural network based on CT scans"
+title: "Automatic detection of end-diastole and end-systole from echocardiography images using manifold learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'COVID-19 has infected millions of people worldwide. One of the most important hurdles in controlling the spread of this disease is the inefficiency and lack of medical tests. Computed tomography (CT) scans are promising in providing accurate and fast detection of COVID-19. However, determining COVID-19 requires highly trained radiologists and suffers from inter-observer variability. To remedy these limitations, this paper introduces an automatic methodology based on an ensemble of deep transfer learning for the detection of COVID-19.'
 date: 2010-07-23
 venue: 'International journal of computer assisted radiology and surgery'

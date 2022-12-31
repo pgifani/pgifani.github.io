@@ -6,7 +6,7 @@ excerpt: 'The automatic detection of end-diastole and end-systole frames of echo
 date: 2010-07-23
 venue: 'Physiological Measurement'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Parisa Gifani. (2010). &quot;Paper Title Number 2.&quot; <i>Physiological Measurement</i>. 31(9).'
+citation: 'Parisa Gifani. (2010). &quot;Automatic detection of end-diastole and end-systole from echocardiography images using manifold learning .&quot; <i>Physiological Measurement</i>. 31(9).'
 ---
 
 

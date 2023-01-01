@@ -1,6 +1,6 @@
 ---
 title: "Image Classification"
-excerpt: "Short description of Image Classification projects<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of Image Classification projects<br/><img src='/images/ic.png'>"
 collection: portfolio
 ---
 

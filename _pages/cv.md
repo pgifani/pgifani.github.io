@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Feb. 2021 – present                 Assistant Professor
+* Feb. 2021 – present :  Assistant Professor
   * Azad University, Science and Research Branch, Tehran, Iran
    * Teaching: 
-      *Medical image Analysis , Introduction to deep learning algorithms, Computer architecture, microprocessor,Medical Equipment, Medical Imaging systems, Python programming and Soft computing
+    * Medical image Analysis , Introduction to deep learning algorithms, Computer architecture, microprocessor,Medical Equipment, Medical Imaging systems, Python programming and Soft computing
 
 
 * Research Assistant

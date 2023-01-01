@@ -1,5 +1,5 @@
 ---
-title: "Peer Learning Group Coordinator"
+title: "Medical Image Analysis and Processing"
 collection: teaching
 teaching_type: "Peer learning group"
 permalink: /teaching/MIAP/ 

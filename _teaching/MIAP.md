@@ -3,8 +3,8 @@ title: "Medical Image Analysis and Processing"
 collection: teaching
 teaching_type: "Peer learning group"
 permalink: /teaching/MIAP/ 
-institution: "UC-Berkeley, Berkeley Institute for Data Science"
+institution: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
 date: 2017-09-01
-excerpt: "Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a weekly peer learning group for scientific computing and data science, which is run out of the Berkeley Institute for Data Science."
+excerpt: "Medical image analysis and processing has great significance in the field of medicine, especially in non-invasive treatment and clinical study.There is a clear need for the accurate interpretation and analysis of medical images, which often involves the need of a computer aided system to understand the image, the image structure and to know what it means.Learning outcomes:1- Demonstrate subject specific knowledge and understanding in theoretical and practical aspects of Medical Image Analysis and Processing.2- Develop specialised skills and critical understanding of advanced image analysis and processing principles using the Python platform.3- Gain critical insight into challenges underpinning image analysis, including image enhancement and compensating for artefacts.4- Apply specialised skills in image analysis and processing through independent and autonomous activity and communicate outcomes to a range of audiences.5- Critically appraise various deep learning architectures and algorithms used in image segmentation, object detection and classification."
 ---
-Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a peer learning group run out of the Berkeley Institute for Data Science, where learners meet 1.5-2 hours a week to teach each other a new language, library, platform, concept, or other topic related to data science and scientific computing. The group exists to fill in the gaps of the university’s standard curricula, give learners a low-risk, low-prerequisite environment to get started with data science, and build a community across campus.
+

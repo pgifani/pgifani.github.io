@@ -1,9 +1,10 @@
 ---
-title: "Medical Image Analysis and Processing"
+title: "Peer Learning Group Coordinator"
 collection: teaching
-type: "Graduate Course"
-permalink: /teaching/MIAP
-venue: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
-date: 2016-10-09
-location: "Tehran, Iran"
+teaching_type: "Peer learning group"
+permalink: /teaching/MIAP/ 
+institution: "UC-Berkeley, Berkeley Institute for Data Science"
+date: 2017-09-01
+excerpt: "Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a weekly peer learning group for scientific computing and data science, which is run out of the Berkeley Institute for Data Science."
 ---
+Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a peer learning group run out of the Berkeley Institute for Data Science, where learners meet 1.5-2 hours a week to teach each other a new language, library, platform, concept, or other topic related to data science and scientific computing. The group exists to fill in the gaps of the university’s standard curricula, give learners a low-risk, low-prerequisite environment to get started with data science, and build a community across campus.

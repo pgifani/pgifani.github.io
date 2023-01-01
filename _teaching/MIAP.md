@@ -4,7 +4,6 @@ collection: teaching
 teaching_type: "Peer learning group"
 permalink: /teaching/MIAP/ 
 institution: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
-date: 2017-09-01
 excerpt: "Medical image analysis and processing has great significance in the field of medicine, especially in non-invasive treatment and clinical study.There is a clear need for the accurate interpretation and analysis of medical images, which often involves the need of a computer aided system to understand the image, the image structure and to know what it means."
 ---
 

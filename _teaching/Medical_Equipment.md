@@ -8,6 +8,8 @@ date: 2016-09-01
 excerpt: "Since Fall 2016, I have been the lecturer for Medical Equipment in the university ."
 ---
 topics are:
-1-
-2-
-3-
+* 1
+* 2
+* 3
+* 4
+* 5

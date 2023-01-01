@@ -1,6 +1,6 @@
 ---
 title: "Image Enhancement"
-excerpt: "<img src='/images/ic.png'>"
+excerpt: "<img src='/images/enh.png'>"
 collection: portfolio
 ---
 

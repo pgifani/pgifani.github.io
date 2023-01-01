@@ -7,11 +7,11 @@ institution: "Azad University, Science and Research Branch, Tehran, Iran"
 date: 2021-09-01
 excerpt: "I have been the lecturer for microprocessor at the university for two semester."
 ---
-* Course Description:
-In this course, the overall structures of microprocessors and microcontrollers will be described. Next, a relative simple but popular microcontroller will be introduced in details. Moreover, some common used microprocessor peripherals will be discussed.
+Course Description:
+* In this course, the overall structures of microprocessors and microcontrollers will be described. Next, a relative simple but popular microcontroller will be introduced in details. Moreover, some common used microprocessor peripherals will be discussed.
  
-* Course Goals and Objectives:
-In this course, students will become familiar with the structure of microprocessors and computer systems; also, using a versatile 8-bit microcontroller, they learn how to design, build, and program microprocessor systems equipped with common used peripherals.
+Course Goals and Objectives:
+* In this course, students will become familiar with the structure of microprocessors and computer systems; also, using a versatile 8-bit microcontroller, they learn how to design, build, and program microprocessor systems equipped with common used peripherals.
  
 *Course Topics:
   * General structure of computers, basic definitions of microprocessor and microcontroller

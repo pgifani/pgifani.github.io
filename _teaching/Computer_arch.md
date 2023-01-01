@@ -3,8 +3,11 @@ title: "Computer architecture"
 collection: teaching
 teaching_type: "Peer learning group"
 permalink: /teaching/Computer_arch/ 
-institution: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
+excerpt: "Since Fall 2016, I have been the lecturer Computer architecture course at Azad University, Science and Research Branch."
 date: 2020-02-01
-excerpt: "Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a weekly peer learning group for scientific computing and data science, which is run out of the Berkeley Institute for Data Science."
+institution: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
 ---
-Since Fall 2016, I have been the lead coordinator for [The Hacker Within](http://thehackerwithin.org/berkeley/), a peer learning group run out of the Berkeley Institute for Data Science, where learners meet 1.5-2 hours a week to teach each other a new language, library, platform, concept, or other topic related to data science and scientific computing. The group exists to fill in the gaps of the university’s standard curricula, give learners a low-risk, low-prerequisite environment to get started with data science, and build a community across campus.
+main topics are:
+* 1
+* 2
+* 3

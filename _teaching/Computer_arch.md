@@ -4,6 +4,7 @@ collection: teaching
 teaching_type: "undergraduade"
 permalink: /teaching/Computer_arch/ 
 excerpt: "Since Fall 2016, I have been the lecturer Computer architecture course at Azad University, Science and Research Branch."
+date: 2016-09-01
 institution: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
 ---
 main topics are:

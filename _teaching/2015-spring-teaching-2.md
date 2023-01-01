@@ -2,7 +2,7 @@
 title: "Medical Image Analysis and Processing"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Medical Sciences and Technologies at Islamic Azad University, Science and Research Branch"
 date: 2016-2022
 location: "Tehran, Iran"
